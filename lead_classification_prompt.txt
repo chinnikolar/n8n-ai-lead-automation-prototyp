@@ -1,0 +1,3 @@
+Analyze the lead data and return JSON:
+summary, priority (High/Medium/Low), category.
+Return only valid JSON.
